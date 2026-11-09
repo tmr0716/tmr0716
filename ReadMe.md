@@ -12,13 +12,5 @@
 ![](https://streak-stats.demolab.com/?user=tmr0716&theme=darcula&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tmr0716&theme=darcula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tmr0716&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=tmr0716&icon=4&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
