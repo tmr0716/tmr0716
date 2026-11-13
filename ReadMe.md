@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Toshan — Computer Science Student who loves coding and building cool projects<br>🔭 I'm currently working on EvokerX (a CLI AI search tool) & a Public Transport Crowd Estimator<br>🌱 I'm currently learning Python, Java, SQL & Advanced Data Structures<br>⚡ Fun fact: I believe the best way to learn any concept is to build it yourself from scratch!<br>
+👋 Hi, I'm Toshan, Computer Science Student who loves coding and building cool projects<br>🔭 I'm currently working on EvokerX (a CLI AI search tool) & a Public Transport Crowd Estimator<br>🌱 I'm currently learning Python, Java, SQL & Advanced Data Structures<br>⚡ Fun fact: I believe the best way to learn any concept is to build it yourself from scratch!<br>
 
 
 ## 🌐 Socials:
